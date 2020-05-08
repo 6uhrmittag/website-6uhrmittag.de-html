@@ -308,8 +308,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url("http://biopino.6uhrmittag.de/stylesheets/bootstrap/glyphicons-halflings-regular.eot");
-  src: url("http://biopino.6uhrmittag.de/stylesheets/bootstrap/glyphicons-halflings-regular.eot?") format("embedded-opentype"), url("http://biopino.6uhrmittag.de/stylesheets/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("http://biopino.6uhrmittag.de/stylesheets/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("http://biopino.6uhrmittag.de/stylesheets/bootstrap/glyphicons-halflings-regular.svg") format("svg");
+  src: url("https://biopino.6uhrmittag.de/stylesheets/bootstrap/glyphicons-halflings-regular.eot");
+  src: url("https://biopino.6uhrmittag.de/stylesheets/bootstrap/glyphicons-halflings-regular.eot?") format("embedded-opentype"), url("https://biopino.6uhrmittag.de/stylesheets/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("https://biopino.6uhrmittag.de/stylesheets/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("https://biopino.6uhrmittag.de/stylesheets/bootstrap/glyphicons-halflings-regular.svg") format("svg");
 }
 
 .glyphicon {
@@ -4163,8 +4163,8 @@ tbody.collapse.in {
   }
 }
 /*!
- *  Font Awesome 4.0.3 by @davegandy - http://fontawesome.io - @fontawesome
- *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ *  Font Awesome 4.0.3 by @davegandy - https://fontawesome.io - @fontawesome
+ *  License - https://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 /* FONT PATH
  * -------------------------- */
@@ -5905,7 +5905,7 @@ tbody.collapse.in {
 
 /*
  * Start: Theme style from here
- * Made with love by Aryandhani <http://aryandhani.com/>, <@aryandhani>
+ * Made with love by Aryandhani <https://aryandhani.com/>, <@aryandhani>
  */
 .side-nav {
   position: fixed;
