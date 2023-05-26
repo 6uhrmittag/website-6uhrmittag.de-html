@@ -31,14 +31,9 @@ a {
     color: black;
 }
 
-a:active
-
-;
-{
-    text-decoration: none
-;
-    color: grey
-;
+a:active {
+    text-decoration: none;
+    color: grey;
 }
 
 /*LOGO*/
